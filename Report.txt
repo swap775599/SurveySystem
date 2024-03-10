@@ -1,7 +1,7 @@
 Project Report: Online Survey System
 •	Name: Swapnil Raibole
 •	Name or Email ID: swapnilraibole107@gmail.com
-•	Github Link: https://github.com/swap775599/OnlineSurveySystem
+•	Github Link: https://github.com/swap775599/SurveySystem
 Task Title: Online Survey System Project
 Task Description: The project aims to develop an Online Survey System using Java, with Object-Oriented Programming (OOP) concepts and Java Swing for the graphical user interface. The system enables users to create surveys, distribute them, collect responses, and generate insightful reports.
 Steps Taken:
